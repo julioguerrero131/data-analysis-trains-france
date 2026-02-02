@@ -38,7 +38,6 @@ Se descubrió que la red carece de elasticidad. Los datos muestran que **un tren
 ### 3. Cuellos de Botella Críticos
 Las estaciones **Paris Lyon** y **Paris Montparnasse** acumulan más del triple de incidencias que cualquier otra estación, actuando como embudos que afectan a toda la red nacional.
 
-*(Aquí puedes insertar una imagen de tu notebook si la guardaste en la carpeta images)*
 > ![Top Estaciones](images/pregunta1.png)
 > *Gráfica 1: Estaciones con mayor tasa de cancelación.*
 
